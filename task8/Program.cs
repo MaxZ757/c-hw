@@ -15,7 +15,6 @@
       }
       else
       {
-        Console.WriteLine(" ");
         S= S + 1;
       }
     
