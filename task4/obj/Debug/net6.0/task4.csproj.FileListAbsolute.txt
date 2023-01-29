@@ -1,0 +1,15 @@
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task4/bin/Debug/net6.0/task4
+/Users/Maximcito1/Desktop/c#_hw/task4/bin/Debug/net6.0/task4.deps.json
+/Users/Maximcito1/Desktop/c#_hw/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/Users/Maximcito1/Desktop/c#_hw/task4/bin/Debug/net6.0/task4.dll
+/Users/Maximcito1/Desktop/c#_hw/task4/bin/Debug/net6.0/task4.pdb
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.dll
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/refint/task4.dll
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.pdb
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
+/Users/Maximcito1/Desktop/c#_hw/task4/obj/Debug/net6.0/ref/task4.dll
