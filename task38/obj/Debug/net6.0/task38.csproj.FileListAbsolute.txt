@@ -1,0 +1,15 @@
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.csproj.AssemblyReference.cache
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.AssemblyInfoInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.AssemblyInfo.cs
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.csproj.CoreCompileInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task38/bin/Debug/net6.0/task38
+/Users/Maximcito1/Desktop/c#_hw/task38/bin/Debug/net6.0/task38.deps.json
+/Users/Maximcito1/Desktop/c#_hw/task38/bin/Debug/net6.0/task38.runtimeconfig.json
+/Users/Maximcito1/Desktop/c#_hw/task38/bin/Debug/net6.0/task38.dll
+/Users/Maximcito1/Desktop/c#_hw/task38/bin/Debug/net6.0/task38.pdb
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.dll
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/refint/task38.dll
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.pdb
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/task38.genruntimeconfig.cache
+/Users/Maximcito1/Desktop/c#_hw/task38/obj/Debug/net6.0/ref/task38.dll
